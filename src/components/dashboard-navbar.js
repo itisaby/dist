@@ -70,7 +70,7 @@ export const DashboardNavbar = (props) => {
           </Tooltip>
           <Avatar
             sx={{
-              height: 40,
+              height: 41,
               width: 40,
               ml: 1
             }}
